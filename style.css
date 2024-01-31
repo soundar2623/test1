@@ -1,0 +1,32 @@
+.a1
+{
+    
+    color:orange;
+    background-color: rgb(11, 125, 38);
+    background-color: cover;
+    
+}
+body {
+    background-image: url(vcet);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  #container{
+    text-align:right;
+    position: absolute;
+    right: 0;
+    top:0;
+  }
+  table{
+    align-content: center;
+
+  }
+
+nav{
+text-align: center;
+}
+.ganesh{
+    text-align:justify;
+    position:static;
+}
